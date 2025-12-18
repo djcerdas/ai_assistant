@@ -1,0 +1,13 @@
+# AI Assistant (Raspberry Pi 5) - minimal Python requirements
+#
+# IMPORTANT:
+# - This project runs on Raspberry Pi 5 (CPU-only).
+# - DO NOT use pip freeze from WSL/desktop for Pi installs.
+# - OpenCV must be installed via apt on Pi (python3-opencv).
+
+ultralytics==8.3.240
+numpy==2.2.6
+PyYAML==6.0.3
+requests==2.32.5
+pillow==12.0.0
+psutil==7.1.3
