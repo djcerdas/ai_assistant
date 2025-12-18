@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# --------------------------------------------------
+# AI Assistant – SQLite databases (DO NOT COMMIT)
+# --------------------------------------------------
+*.db
+*.db-journal
+visual_assistant_v1.db
+
