@@ -92,7 +92,7 @@ SOFTWARE STACK
 
 PROJECT STRUCTURE (FIXED PRODUCTION PATH)
 -----------------------------------------
-
+```
 /opt/ai_assistant/
 ├── main.py
 ├── config.py
@@ -116,7 +116,7 @@ PROJECT STRUCTURE (FIXED PRODUCTION PATH)
 ├── visual_assistant_v1.db
 ├── requirements.txt
 └── .venv/
-
+```
 -----------------------------------------------------------------------
 
 INSTALLATION (PRODUCTION – SINGLE CORRECT PATH)
